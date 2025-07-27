@@ -1,3 +1,4 @@
+
 # AI Prompt: B2B Dashboard User Personas
 
 Act as a senior UX researcher. Generate 3 distinct user personas for a 
